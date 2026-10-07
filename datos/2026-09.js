@@ -34,7 +34,7 @@ REPORTE.agregar({
     facebook:  { organicos: 9, pagados: 92, nuevos: 98 },
     instagram: { organicos: 1, pagados: 2, nuevos: 3 },
     texto: "Más del doble que agosto (48). Facebook concentró casi todo: 92 de sus 101 contactos llegaron entre el 18 y el 22 de septiembre, y las conversaciones iniciadas subieron 120%.",
-    siguiente_paso: "Con este volumen, responder más rápido es clave: hoy el tiempo de respuesta en Facebook es de 10 h 38 min y el índice de respuesta, 69.9%."
+    siguiente_paso: "Los mensajes llegan en oleadas justo después de lanzar un anuncio. Reforzar la atención esos días para aprovechar cada contacto."
   },
 
   top_nota: "Contenido propio publicado en septiembre, ordenado por visualizaciones.",
