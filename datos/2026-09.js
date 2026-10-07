@@ -8,7 +8,7 @@ REPORTE.agregar({
   nombre: "Septiembre 2026",
   corto: "Sep",
 
-  conclusion: "El mejor mes de la pauta: 94 leads, gracias al nuevo video de visa. Los contactos por mensaje se duplicaron (104) y Facebook multiplicó por 2.5 su alcance.",
+  conclusion: "El mejor mes de la pauta: 94 leads, gracias al nuevo video de visa. Los contactos por mensaje se duplicaron (104) y Facebook multiplicó por 2.5 su alcance; Instagram regresó a su nivel normal después del pico de agosto.",
   kpis: ["contactos.total", "pauta.leads", "redes.facebook.espectadores", "comunidad.nuevos"],
   comunidad: [["16", "Videos publicados en TikTok"], ["333", "Me gusta en TikTok", 22.9]],
 
@@ -63,18 +63,19 @@ REPORTE.agregar({
       siguiente_paso: "El 29 de septiembre tuvo 27.5 mil visualizaciones en un solo día y al siguiente llegaron 28 seguidores nuevos: replicar ese tipo de pieza."
     },
     instagram: {
-      alcance: { v: 5700, cambio: 55.6 },
-      visualizaciones: { v: 12100, cambio: 46.3 },
-      interacciones: { v: 288, cambio: 81.3 },
+      // Verificado en Business Suite → Resultados → Instagram, 1–30 sep (2026-10-07). Bajadas respecto al pico de agosto.
+      alcance: { v: 5700, cambio: -55.6 },
+      visualizaciones: { v: 12100, cambio: -46.3 },
+      interacciones: { v: 288, cambio: -81.3 },
       clics_enlace: { v: 32, cambio: 52.4 },
-      visitas_perfil: { v: 115, cambio: 13.5 },
-      seguidores_nuevos: { v: 22, cambio: 60.0 },
+      visitas_perfil: { v: 115, cambio: -13.5 },
+      seguidores_nuevos: { v: 22, cambio: -60.0 },
       ganador: {
         img: "assets/img/2026-09-top-ig-salario-dublin.jpg", url: "https://www.instagram.com/seal.internacional/reel/DdeoVF-CvHg/",
         texto: "Reel sobre el salario mínimo en Dublín, Stamp 2 y número PPS, 19 de septiembre. Trajo 12 seguidores nuevos.",
         stats: [["1,890", "Vistas"], ["70", "Interacciones"], ["23", "Guardados"]]
       },
-      siguiente_paso: "Los reels de datos prácticos de Irlanda son los que más se guardan y comparten: seguir con esa línea."
+      siguiente_paso: "Instagram volvió a su nivel normal después del pico de agosto. Los reels de datos prácticos de Irlanda son los que más se guardan y comparten: publicar más de esa línea para recuperar alcance."
     },
     tiktok: {
       visualizaciones: { v: 10300, cambio: 24.9 },

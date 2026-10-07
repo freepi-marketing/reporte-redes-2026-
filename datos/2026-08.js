@@ -7,7 +7,7 @@ REPORTE.agregar({
   nombre: "Agosto 2026",
   corto: "Ago",
 
-  conclusion: "Agosto fue el mejor mes de Instagram: el alcance creció 71% y la comunidad de Facebook e Instagram sumó 82 seguidores nuevos. La pauta de visa trajo 40 leads.",
+  conclusion: "Agosto fue el mejor mes de Instagram: el alcance creció 66% y la comunidad de Facebook e Instagram sumó 82 seguidores nuevos. La pauta de visa trajo 40 leads.",
   kpis: ["contactos.total", "redes.instagram.alcance", "redes.instagram.interacciones", "google.clics"],
   comunidad: [["10 mil", "TikTok · seguidores"], ["87 mil", "TikTok · me gusta"], ["5 mil", "Espectadores nuevos TikTok", 9.1]],
 
@@ -58,7 +58,7 @@ REPORTE.agregar({
       siguiente_paso: "El alcance creció pero las interacciones bajaron: toca revisar formatos y llamados a la acción."
     },
     instagram: {
-      alcance: { v: 14200, cambio: 71.3 },
+      alcance: { v: 13600, cambio: 66.4 }, // Meta ajustó de 14.2 mil (consultado 2026-10-07)
       interacciones: { v: 1700, cambio: 56.6 },
       visualizaciones: { v: 23600, cambio: 12.0 },
       clics_enlace: 21,
