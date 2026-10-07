@@ -40,9 +40,9 @@ REPORTE.agregar({
   top_nota: "Contenido propio publicado en septiembre, ordenado por visualizaciones.",
   top: [
     { red: "instagram", titulo: "Reel: salario mínimo en Dublín, Stamp 2 y número PPS", fecha: "19 sep", stats: "1,890 vistas · 70 interacciones", url: "https://www.instagram.com/seal.internacional/reel/DdeoVF-CvHg/", img: "assets/img/2026-09-top-ig-salario-dublin.jpg" },
-    { red: "instagram", titulo: "Reel: pasaporte vigente y aun así quedarte sin abordar", fecha: "8 sep", stats: "1,486 vistas · 14 interacciones", url: "https://www.instagram.com/seal.internacional/", img: "assets/img/2026-09-top-pasaporte-abordar.jpg" },
-    { red: "facebook", titulo: "Reel: pasaporte vigente y aun así quedarte sin abordar", fecha: "8 sep", stats: "768 vistas · 4 interacciones", url: "https://www.facebook.com/989122474503857", img: "assets/img/2026-09-top-pasaporte-abordar.jpg" },
-    { red: "tiktok", titulo: "Tu hijo de 6 años puede compartir campamento en Inglaterra", fecha: "23 sep", stats: "671 vistas · 15 me gusta", url: "https://www.tiktok.com/@seal.internacional" },
+    { red: "instagram", titulo: "Reel: pasaporte vigente y aun así quedarte sin abordar", fecha: "8 sep", stats: "1,486 vistas · 14 interacciones", url: "https://www.instagram.com/reel/DdCtPyPFFQL/", img: "assets/img/2026-09-top-pasaporte-abordar.jpg" },
+    { red: "facebook", titulo: "Reel: pasaporte vigente y aun así quedarte sin abordar", fecha: "8 sep", stats: "768 vistas · 4 interacciones", url: "https://www.facebook.com/reel/1592631555647440/", img: "assets/img/2026-09-top-pasaporte-abordar.jpg" },
+    { red: "tiktok", titulo: "Carrusel: ¿qué campamento en Inglaterra le toca a tu hijo según su edad?", fecha: "23 sep", stats: "671 vistas · 15 me gusta", url: "https://www.tiktok.com/@seal.internacional/video/7688906404505128193", img: "assets/img/2026-09-top-tt-campamento.jpg" },
     { red: "tiktok", titulo: "Pasaporte vencido con visa americana vigente", fecha: "10 sep", stats: "613 vistas · 33 me gusta", url: "https://www.tiktok.com/@seal.internacional/video/7684088718516407560", img: "assets/img/2026-09-top-tt-pasaporte-vencido.jpg" }
   ],
 
@@ -56,7 +56,7 @@ REPORTE.agregar({
       seguidores_nuevos: { v: 44, cambio: 109.5 },
       reparto: { titulo: "Contactos del mes", partes: [["Pagados", 91.1, "92"], ["Orgánicos", 8.9, "9"]] },
       ganador: {
-        img: "assets/img/2026-09-top-pasaporte-abordar.jpg", url: "https://www.facebook.com/989122474503857",
+        img: "assets/img/2026-09-top-pasaporte-abordar.jpg", url: "https://www.facebook.com/reel/1592631555647440/",
         texto: "Reel “Pasaporte vigente y aun así quedarte sin abordar”, 8 de septiembre.",
         stats: [["768", "Vistas"], ["4", "Interacciones"]]
       },
@@ -83,7 +83,7 @@ REPORTE.agregar({
       compartidos: { v: 12, cambio: 200.0 },
       visitas_perfil: { v: 36, cambio: -40.0 },
       ganador: {
-        url: "https://www.tiktok.com/@seal.internacional",
+        img: "assets/img/2026-09-top-tt-campamento.jpg", url: "https://www.tiktok.com/@seal.internacional/video/7688906404505128193",
         texto: "“Tu hijo de 6 años puede compartir campamento en Inglaterra”, 23 de septiembre. El más gustado fue “Pasaporte vencido con visa americana vigente” (33 me gusta).",
         stats: [["671", "Vistas"], ["15", "Me gusta"]]
       },
